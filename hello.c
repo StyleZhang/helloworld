@@ -3,4 +3,3 @@ I have change the file.
 
 master changed
 
-slave changed
