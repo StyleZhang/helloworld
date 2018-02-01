@@ -10,3 +10,4 @@ slave changed3
 master changed
 
 master change 2
+master change 3
